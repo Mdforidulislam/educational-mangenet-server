@@ -5,6 +5,6 @@ const students = (req,res) =>{
     console.log(studentInfo);
     res.send(studentInfo);
 }
-
+  
 
 module.exports = students;
